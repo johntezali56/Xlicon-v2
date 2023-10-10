@@ -39,7 +39,7 @@ global.openAiAPI = "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";
 
 //
 global.location = "Dhaka, Bangladesh";                   
-global.reactmoji = "✅";
+global.reactmoji = "🦾";
 global.themeemoji = "💖";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
 global.websitex = "https://github.com/ahil15";
@@ -77,18 +77,18 @@ global.ntilink = []
 //
 global.mess = {
     jobdone: 'Here you go...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+    useradmin: 'Sorry, only *Group Admins* can use this command ,
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
+    botowner: 'Only my *Owner* can use this command,
     grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Baka!',
+    privateonly: 'This command is only made for *Private Chat*,
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Just Wait...',
-    nolink: 'Please provide me *link*, Baka!',
+    nolink: 'Please provide me *link*,
     error: 'An error occurd!',
-    banned: 'You are *Banned* fron using commands!',
+    banned: 'You are *Banned* fron using commands! now cry',
     bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+    nonsfw: 'Dont be an idiot This is not a NSFW enabled group!'
     
 }
 
